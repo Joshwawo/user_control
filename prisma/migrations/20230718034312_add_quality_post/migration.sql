@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `post` ADD COLUMN `qualityPost` INTEGER NOT NULL DEFAULT 0;

@@ -29,6 +29,8 @@ module.exports = {
         "vue"
     ],
     "rules": {
-        
+        //No semicolons
+        "semi": ["error", "never"],
+    
     }
 }
